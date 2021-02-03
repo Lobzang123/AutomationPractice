@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation Practice" duration-ms="81595" started-at="2021-02-03T18:41:57Z" finished-at="2021-02-03T18:43:18Z">
+    <groups>
+    </groups>
+    <test name="Automation Practice Test case" duration-ms="81595" started-at="2021-02-03T18:41:57Z" finished-at="2021-02-03T18:43:18Z">
+      <class name="com.test.VerifyLogin">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.VerifyLogin@26be92ad]" name="setUp" is-config="true" duration-ms="37971" started-at="2021-02-04T00:11:57Z" finished-at="2021-02-04T00:12:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="signTest()[pri:0, instance:com.test.VerifyLogin@26be92ad]" name="signTest" duration-ms="10383" started-at="2021-02-04T00:12:35Z" finished-at="2021-02-04T00:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signTest -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.test.VerifyLogin@26be92ad]" name="loginTest" duration-ms="5242" started-at="2021-02-04T00:12:45Z" finished-at="2021-02-04T00:12:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="storePage()[pri:0, instance:com.test.VerifyLogin@26be92ad]" name="storePage" duration-ms="26566" started-at="2021-02-04T00:12:50Z" finished-at="2021-02-04T00:13:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.VerifyLogin@26be92ad]" name="tearDown" is-config="true" duration-ms="1335" started-at="2021-02-04T00:13:17Z" finished-at="2021-02-04T00:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.VerifyLogin -->
+    </test> <!-- Automation Practice Test case -->
+  </suite> <!-- Automation Practice -->
+</testng-results>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OpenWeatherMap" duration-ms="16175" started-at="2021-02-03T19:17:20 IST" finished-at="2021-02-03T19:17:36 IST">
+    <groups>
+    </groups>
+    <test name="OpenWeatherMap" duration-ms="16175" started-at="2021-02-03T19:17:20 IST" finished-at="2021-02-03T19:17:36 IST">
+      <class name="com.test.BaseTest">
+        <test-method status="PASS" signature="baseTest()[pri:0, instance:com.test.BaseTest@5442a311]" name="baseTest" is-config="true" duration-ms="2235" started-at="2021-02-03T19:17:21 IST" finished-at="2021-02-03T19:17:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseTest -->
+        <test-method status="PASS" signature="validateGetResponseFieldsforNotNullorBlank()[pri:0, instance:com.test.BaseTest@5442a311]" name="validateGetResponseFieldsforNotNullorBlank" duration-ms="12653" started-at="2021-02-03T19:17:24 IST" finished-at="2021-02-03T19:17:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGetResponseFieldsforNotNullorBlank -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.BaseTest@5442a311]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-02-03T19:17:36 IST" finished-at="2021-02-03T19:17:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.BaseTest -->
+    </test> <!-- OpenWeatherMap -->
+  </suite> <!-- OpenWeatherMap -->
+</testng-results>
