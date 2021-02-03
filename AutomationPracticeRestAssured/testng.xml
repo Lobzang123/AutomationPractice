@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="OpenWeatherMap" verbos="4">
+
+<listeners>
+	<listener class-name="com.utils.ExtentReportListner"/>
+</listeners>
+	<test name="OpenWeatherMap">
+		<classes>
+			<class name="com.test.BaseTest"/>
+		</classes>
+	</test>
+</suite>

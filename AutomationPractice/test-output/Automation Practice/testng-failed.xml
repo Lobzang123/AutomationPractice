@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation Practice]">
+  <test name="Automation Practice Test case(failed)">
+    <classes>
+      <class name="com.test.VerifyLogin">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="storePage"/>
+        </methods>
+      </class> <!-- com.test.VerifyLogin -->
+    </classes>
+  </test> <!-- Automation Practice Test case(failed) -->
+</suite> <!-- Failed suite [Automation Practice] -->
